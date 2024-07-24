@@ -11,8 +11,6 @@ function App() {
       <div className="App">
         <header>
           <h1>İş İlan Portalı</h1>
-          <input type="text" placeholder="Arama" />
-          <button id="arama_butonu">Ara</button>
         </header>
         <Routes>
           <Route path="/" element={<IlanList />} />

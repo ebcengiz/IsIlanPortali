@@ -10,7 +10,7 @@ export const JobProvider = ({ children }) => {
 
   useEffect(() => {
     axios
-      .get("http://localhost:5000/is_ilanlari")
+      .get("http://localhost:3000/is_ilanlari")
       .then((response) => setJobs(response.data))
       .catch((error) => console.error("Error fetching data:", error));
   }, []);
