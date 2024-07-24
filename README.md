@@ -2,6 +2,11 @@
 
 Bu proje, iş ilanlarını listeleyen, arama yapabilen ve ilan detaylarına gidilebilen bir iş ilan portalıdır. Proje, React, Axios, JSON Server ve Context API kullanılarak geliştirilmiştir.
 
+## Proje Görseli
+
+![İşİlanPortal](https://github.com/user-attachments/assets/2519d95c-338f-4fa1-abd8-ceaf3e56df9d)
+
+
 ## Özellikler
 
 - İş ilanlarını listeleme
